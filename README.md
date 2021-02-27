@@ -1,2 +1,2 @@
 # zeeBox
-Music Box
+[Try](https://zeelib.com/zee-box)
