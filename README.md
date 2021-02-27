@@ -1,2 +1,2 @@
 # zeeBox
-[Try](https://zeelib.com/zee-box)
+[Try](https://zeelib.com/projects/zee-box)
