@@ -8,4 +8,4 @@
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)
 - [React](https://reactjs.org/)
 - [ReactRoute](https://reactrouter.com/)
-- [Public API](https://developer.spotify.com/documentation/web-api/)
+- [Public API - Spotify](https://developer.spotify.com/documentation/web-api/)
