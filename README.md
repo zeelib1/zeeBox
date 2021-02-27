@@ -1,4 +1,4 @@
-# ZeeBox :musical_keyboard: :trumpet: :saxophone: :guitar:
+# :musical_keyboard: ZeeBox  :trumpet: :saxophone: :guitar:
 Simple music App made with React.
 :point_right: [ZeeBox Live](https://zeelib.com/projects/zee-box)
 
